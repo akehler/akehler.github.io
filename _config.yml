@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Andy Kehler / Academic Homepage"
+title                    : "Andy Kehler"
 title_separator          : "-"
 name                     : &name "Andy Kehler"
 description              : &description "Professor, Department of Linguistics, UC San Diego"
@@ -22,9 +22,9 @@ repository               : "akehler/akehler.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Andy Kehler"
   pronouns         : "he/him/his"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Professor, Department of Linguistics, UC San Diego"
   location         : "San Diego, CA, USA"
   employer         : "University of California, San Diego"
   uri              : # URL
