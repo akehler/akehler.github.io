@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Coherence, Reference, and the Theory of Grammar"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+category: books
+permalink: # /publication/2009-10-01-paper-title-number-1
+excerpt: # 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'CSLI Publications'
+slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'http://www.amazon.com/exec/obidos/ASIN/1575862166/qid=1012429713/sr=12-1/102-6901625-5880126' 
+citation: 'Andrew Kehler. Coherence, Reference, and the Theory of Grammar, CSLI Publications, 2002.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
