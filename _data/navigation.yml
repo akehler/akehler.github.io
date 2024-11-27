@@ -14,8 +14,11 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Positions Held"
-    url: /positions/
+  - title: "Education"
+    url: /education/
+
+  - title: "Employment"
+    url: /employment/
         
  # - title: "Blog Posts"
  #    url: /year-archive/
