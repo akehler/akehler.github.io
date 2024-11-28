@@ -9,6 +9,7 @@ Hi!  I'm a Professor in the Linguistics Department at UC San Diego.  I direct on
 My current students are <a HREF="https://sites.google.com/ucsd.edu/joshuawampler">Joshua Wampler</a> and <a href="https://pennydy.github.io/">Penny Pan</a>. 
 
 I'm teaching Lign 17 (Making and Breaking Codes) this quarter (Fall 2024). 
+
 My office hours are Mondays 1-2 (in person; AP&M 2442) and Fridays 3:30-5 (remote; contact me for room info).  
 
 I'll also be teaching Lign 17 (Making and Breaking Codes) next quarter (Winter 2025).  
