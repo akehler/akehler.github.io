@@ -10,7 +10,5 @@ My current student is <a href="https://pennydy.github.io/">Penny Pan</a>.
 
 Congratuations to <a HREF="https://sites.google.com/ucsd.edu/joshuawampler">Joshua Wampler</a>, who successfully defended his thesis on 12/9/24! 
 
-I'm teaching Lign 17 (Making and Breaking Codes) this quarter (Winter 2025).      
-My office hours are Mondays 1-2 (in person; AP&M 2442) and Fridays 3:30-5 (remote; contact me for room info).  
-
-I'll also be teaching Lign 17 (Making and Breaking Codes) next quarter (Spring 2025), as well as a new course, Lign 117 (The Language Code). 
+I'm teaching Lign 17 (Making and Breaking Codes) and Lign 117 (The Language Code) this quarter (Spring 2025).      
+My office hours are Wednesdays 2:30-4 (in person; AP&M 2442) and Fridays 3:30-5 (remote; contact me for room info).  
