@@ -6,4 +6,4 @@ Hi!  I'm a Professor in the Linguistics Department at UC San Diego.  I direct on
 
 My current student is <a href="https://pennydy.github.io/">Penny Pan</a>. 
 
-I'm on sabbatical until Fall 2026, and am not teaching or holding office hours.   
+I'm teaching Lign 017 during Fall 2026.  My office hours are Mondays 1-2 and Thursdays 12-1:30, held in AP&M 4256. 
